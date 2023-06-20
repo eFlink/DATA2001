@@ -1,6 +1,6 @@
 # DATA2001
 
-I completed a series of assignments as part of my DATA2001 course, where I gained valuable insights into data science methodologies. Each assignment provided practical experience and focused on different aspects of data analysis.
+I completed a series of assignments as part of my DATA2001 course, Fundamentals of Data Science, where I gained valuable insights into data science methodologies. Each assignment provided practical experience and focused on different aspects of data analysis.
 
 In Assignment 1, I worked with a structured penguin dataset, learning how to analyze and interpret data effectively. Through tasks such as data preparation, exploratory data analysis, and applying clustering and principal component analysis techniques, I developed skills in data manipulation, visualization, and pattern recognition.
 
